@@ -1,0 +1,13 @@
+3d_cluster/*
+*.zip
+apcAnalysis/*
+*.png
+concrete
+data
+data_copy
+cluster_maps/*
+*.mp4
+.ipynb*
+hit_data.csv
+hit_new.txt
+AlumTest*
